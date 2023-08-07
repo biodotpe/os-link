@@ -610,6 +610,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* napari */
+.button.button-napari {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
+}
+.button.button-napari:hover,
+.button.button-napari:focus {
+  filter: brightness(90%);
+}
+
 /* NGL */
 .button.button-ngl {
   color: #ffffff;
