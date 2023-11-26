@@ -454,6 +454,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* GrabCAD */
+.button.button-grabcad {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
+}
+.button.button-grabcad:hover,
+.button.button-grabcad:focus {
+  filter: brightness(90%);
+}
+
 /* Guilded */
 .button.button-guilded {
   color: #000000;
@@ -566,7 +577,6 @@ button:hover,
 .button.button-line:focus {
   filter: brightness(90%);
 }
-
 
 /* LinkedIn */
 .button.button-linked {
@@ -715,6 +725,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Prusa */
+.button.button-prusa {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
+}
+.button.button-prusa:hover,
+.button.button-prusa:focus {
+  filter: brightness(90%);
+}
+
 /* Read.cv */
 .button.button-read-cv {
   color: #FFFFFF;
@@ -811,7 +832,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-
 /* Snapchat */
 .button.button-snapchat {
   color: #000000;
@@ -900,6 +920,17 @@ button:hover,
 }
 .button.button-telegram:hover,
 .button.button-telegram:focus {
+  filter: brightness(90%);
+}
+
+/* Thingiverse */
+.button.button-thingiverse {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
+}
+.button.button-thingiverse:hover,
+.button.button-thingiverse:focus {
   filter: brightness(90%);
 }
 
@@ -1109,6 +1140,17 @@ button:hover,
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
+  filter: brightness(90%);
+}
+
+/* Zenodo */
+.button.button-zenodo {
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #212121;
+}
+.button.button-zenodo:hover,
+.button.button-zenodo:focus {
   filter: brightness(90%);
 }
 
