@@ -2,7 +2,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Welcome to the repository of an [academic LittleLink page](https://os-link.vercel.app/). I customized this link manager page to centralize my different accounts related to **Social Media**, **CAD Design and 3D Printing**, **Research and Development**, and **Volunteering**. You can modify these sections and links based on your needs.
+Welcome to the repository of an [academic LittleLink page](https://os-link.vercel.app/). I customized this link manager page to centralize my different accounts related to **Social Media**, **Research and Development**, **CAD Design and 3D Printing**, and **Communities**. You can modify these sections and links based on your needs.
 
 ### Quick-Start Guide
 
@@ -12,7 +12,7 @@ You can fork the original [repo](https://github.com/sethcottle/littlelink) or th
 
 ### What's new in this repo?
 
-You will find the following buttons that may be of your interested:
+You will find the following buttons that may be of interest:
 - A personal website
 - ORCID
 - ResearchGate
@@ -38,7 +38,7 @@ A link manager can play a crucial role in enhancing and organizing an academic p
 
 3. **Enhanced Visibility:** By effectively managing and curating links, academics can ensure that their most significant and relevant contributions are easily accessible. This can contribute to increased visibility in academic circles, making it more likely for others in the field to discover and engage with their work.
 
-4.  **Professionalism and Credibility:** A well-organized academic profile, facilitated by a link manager, reflects professionalism and attention to detail. This can enhance the perceived credibility of an academic, especially when sharing their profile with peers, collaborators, or during academic networking events.
+4.  **Professionalism and Credibility:** A well-organized academic profile, facilitated by a link manager, reflects professionalism and attention to detail. This can enhance the perceived credibility of an academic, especially when sharing their profile with peers, and collaborators, or during academic networking events.
 
 5. **Collaboration and Networking:** In academia, collaboration is key. A link manager can aid in sharing and promoting collaborative projects by providing a concise and accessible overview of joint publications, research endeavors, and shared resources. This, in turn, can foster networking opportunities within and beyond one's academic discipline.
 
@@ -55,13 +55,15 @@ In summary, a link manager streamlines the organization and presentation of an a
 ![Theme](https://cdn.cottle.cloud/littlelink/themesupport.gif)
 
 #### 📦 LittleLink Extended
-Looking for more niche services to add to your copy of LittleLink? Check out [LittleLink Extended](https://github.com/sethcottle/littlelink-extended). *I contributed adding ORCID and ResearchGate buttons because of their relevance as academic platforms*.
+Looking for more niche services to add to your copy of LittleLink? Check out [LittleLink Extended](https://github.com/sethcottle/littlelink-extended).
+
+*I contributed to the LittleLink project by adding ORCID and ResearchGate buttons because of their relevance as academic platforms*.
 
 #### 💖 Supporters
-You can support LittleLink by [buying a coffee to Seth](https://www.buymeacoffee.com/seth).
+You can support LittleLink by [buying a coffee for Seth](https://www.buymeacoffee.com/seth).
 
 ---
 
 ### License
 
-This repository is openly licensed by Pierre Padilla, based on the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This repository is openly licensed by Pierre Padilla Huamantinco, based on the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
